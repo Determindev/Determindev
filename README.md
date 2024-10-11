@@ -27,7 +27,7 @@
 ## My skills 🛠️
 #### Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 <img src="assets/332.gif" align="right" height="400px">
 
