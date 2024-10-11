@@ -1,11 +1,6 @@
-![Header](https://github.com/Determindev/Determindev/blob/main/assets/chill-rain.gif)
+![Header]()
 
  # About me
-
-  Just a beginner in programming
-
- # Social Media
-https://t.me/remindme13
 
 
 
