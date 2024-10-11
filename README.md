@@ -12,7 +12,7 @@
 <div>
   <h2>About me 🚀</h2>
    <div align="center">
-    <img src="assets/332.gif" align="right" height="495px">
+    <img src="assets/332.gif" align="right" height="400px">
   </div>
   <ul>
     <li>💊 My name is Zhenya</li>
