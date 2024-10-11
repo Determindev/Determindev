@@ -5,7 +5,7 @@
   Just a beginner in programming
 
  # Social Media
- [![Link](https://t.me/remindme13)](https://t.me/remindme13)
+https://t.me/remindme13
 
 
 
