@@ -21,13 +21,8 @@
     <li>🍤 I'm just a beginner </li>
   </ul>
 </div>
-<!--START_SECTION:waka-->
 
 
-
-
-
-<!--END_SECTION:waka-->
 
 ## My skills 🛠️
 #### Programming languages
