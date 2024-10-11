@@ -12,7 +12,7 @@
 <div>
   <h2>About me 🐲 </h2>
    <div align="center">
-    <img src="assets/332.gif" align="right" height="400px">
+
   </div>
   <ul>
     <li>💊 My name is Zhenya</li>
@@ -26,9 +26,16 @@
 
 ## My skills 🛠️
 #### Programming languages
-<div align="center">
-  <img src="assets/bebop_smoke.gif" align="right" height="500px">
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=go,cs,python)](https://skillicons.dev)
+
+<img src="assets/332.gif" align="right" height="400px">
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,python)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Determindev&layout=compact&theme=nord)
+
+
+
+
+
+
