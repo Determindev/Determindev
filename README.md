@@ -1,4 +1,4 @@
-Head2
+[![Header](https://github.com/Determindev/Determindev/blob/main/assets/chill-rain.gif)]
 
 About me
 
