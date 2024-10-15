@@ -16,8 +16,7 @@
   </div>
   <ul>
     <li>💊 My name is Zhenya</li>
-    <li>📕  I'm currently studying at 11 grade. </li>
-    <li>👾 My hobbies are coding, learning english and music </li>
+    <li>👾 My hobbies is coding</li>
     <li>🍤 I'm just a beginner </li>
   </ul>
 </div>
