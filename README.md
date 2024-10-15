@@ -23,11 +23,6 @@
 </div>
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Determindev&layout=compact&theme=nord)
-
-
-
 ## My skills 🛠️
 #### Programming languages
 
@@ -39,7 +34,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Determindev&layout=compact&theme=nord)
 
 
 
