@@ -16,7 +16,7 @@
   </div>
   <ul>
     <li>💊 My name is Zhenya</li>
-    <li>👾 My hobbies is coding</li>
+    <li>👾 My hobby is coding</li>
     <li>🍤 I'm just a beginner </li>
   </ul>
 </div>
